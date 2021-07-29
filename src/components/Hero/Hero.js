@@ -4,11 +4,6 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-// function sendEmail() 
-// {
-//   //window.open("mailto:naelee@ucsc.edu")
-//   location.href='mailto:naelee@ucsc.edu'
-// }
 const sendEmail = () => {
   location.href = 'mailto:naelee@ucsc.edu'
 }
@@ -21,7 +16,7 @@ const Hero = (props) => (
           and welcome!
         </SectionTitle>
         <SectionText>
-        This portfolio was created using React and Node.js which enables this platform to showcases my work.
+        My name is Nathaniel Lee and this is my online portfolio where you can learn more about my experiences. 
         </SectionText>
         <Button onClick = {() =>sendEmail()}>
           Contact Me!

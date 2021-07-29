@@ -43,7 +43,7 @@ const Technologies = () =>  (
 						June 2021 - Aug 2021
 						<br />
 						<br />
-						- Contributed to the Data Platform team's agile development through attending daily standup, work sessions, grooming, and retrospective meetings. 
+						- Contributed to the Data Platform team's agile development through attending daily standup, work sessions, grooming, story review/pointing, sprint demo, and retrospective meetings. 
 					    <br />
 						- Developed ETL (extract, transform, and load) program that read, ingested, normalized, and enriched ADT (Admission, discharge, transfer) datasets to verify coverage under Bright Health.
 						<br />

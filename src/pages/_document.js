@@ -39,6 +39,7 @@ export default class MyDocument extends Document {
           <meta property="og:image" name = "image"content="https://firebasestorage.googleapis.com/v0/b/nate-lee-portfolio.appspot.com/o/Daco_799432.png?alt=media&token=97c05ce7-f5ed-4e41-8a8c-b8e3d83c5aff" />
           <link rel="shortcut icon" href="../static/favicon.ico" />
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+          <title>Nate's Portfolio</title>
         </Head>
         <body>
           <Main />
