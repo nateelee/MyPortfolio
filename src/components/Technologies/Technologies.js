@@ -18,7 +18,7 @@ const Technologies = () =>  (
 				<SiSamsung size = "8rem"/>
 				<ListContainer>
 					<ListTitle>
-						Software Engineer Intern @ Samsung
+						Software Engineer Intern @ Samsung Electronics
 					</ListTitle>
 					<ListParagraph>
 						<br />
@@ -45,11 +45,11 @@ const Technologies = () =>  (
 						<br />
 						- Contributed to the Data Platform team's agile development through attending daily standup, work sessions, grooming, story review/pointing, sprint demo, and retrospective meetings. 
 					    <br />
-						- Developed ETL (extract, transform, and load) program that read, ingested, normalized, and enriched ADT (Admission, discharge, transfer) datasets to verify coverage under Bright Health.
+						- Developed ETL (extract, transform, and load) program that read, ingested, normalized, and enriched ADT (Admission, discharge, transfer) datasets to verify coverage under Bright Health Insurance.
 						<br />
-						- Coded JUnit tests to ensure valid data quality and error prevention.
+						- Coded JUnit tests in Scala to ensure valid data quality and error prevention.
 						<br />
-						- Constructed YAML Pipeline that would build Intellij project, run the unit tests, and deploy JAR to Databricks.
+						- Constructed YAML Pipeline that would use Maven to build Scala projects, run the unit tests, and deploy its JAR to Databricks for CI/CD purposes.
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>

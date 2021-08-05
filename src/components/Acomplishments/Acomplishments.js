@@ -7,7 +7,7 @@ const lang = [
   'Python', 'C', 'C++', 'C#', 'JavaScript', 'Java', 'HTML/CSS', 'Scala', 'SQL'
 ]
 const tools = [
-  'Azure Storage, Azure DevOps', '.Net Platform', 'Apache Spark', 'Git, GitHub', 'Node.js', 'React', 'Vim', 'OGL', 'Firebase', 'Databricks', 'Jira'
+  'Azure Storage, Azure DevOps', '.Net Platform', 'Apache Spark', 'Git, GitHub', 'Node.js', 'Django' ,'React', 'OGL', 'Databricks', 'Jira', 'Maven'
 ]
 const linkedin = [
   'Agile Software Development: Scrum for Developers', 'Issued July 2021', 'Credential ID: AYNo0X0vMGrkc_INrHGarABXbzNt'
