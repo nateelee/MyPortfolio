@@ -47,8 +47,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm an incoming 4th-year Computer Science student at UC Santa Cruz and a Software Engineer Intern at Samsung. My intended
-      graduation date is in June of 2022 and I'm looking for full-time roles as a Software Developer!
+      I'm currently a 4th-year Computer Science student at UC Santa Cruz and after graduation,
+      I'll be joining Meta as a Software Engineer in Menlo Park!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

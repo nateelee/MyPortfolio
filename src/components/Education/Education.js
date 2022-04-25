@@ -42,7 +42,7 @@ const Education = () =>  (
 					<br />
 					<ListParagraph>
 						B.S. in Computer Science <br />
-						GPA: 3.72 <br /> <br />
+						GPA: 3.67 <br /> <br />
 						Relevant Coursework: Calculus for Engineers III, Advanced Programming in C and C++, Discrete Mathematics, Physics for Engineers II, Object-Oriented Programming in C++, Linear Algebra, Differential Equations, Assembly Language Programming, Program Design and Data Structures <br />
 					</ListParagraph>
 					

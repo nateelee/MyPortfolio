@@ -18,16 +18,17 @@ const Technologies = () =>  (
 				<SiSamsung size = "8rem"/>
 				<ListContainer>
 					<ListTitle>
-						Software Engineer Intern @ Samsung Electronics
+						Software Engineer Intern @ Samsung 
 					</ListTitle>
 					<ListParagraph>
 						<br />
-						Aug 2021 - Present
+						Aug 2021 - Oct 2021
 						<br />
 						<br />
-						- Developed computational algorithms relevant to Samsung Galaxy Phones’ GPUs with C, C++ programming and tools like OGL.
-					    <br />
-						- Maintained the software development cycle of design, building, testing, and deployment.
+						- Developed command-line application in Redhat Linux with C++ to accelerate OpenCL kernel code compilation.
+						<br />
+						- Utilized computational algorithms relevant to Samsung Galaxy Phones’ GPUs with C++ programming and tools like OCL.
+					    
 						
 					</ListParagraph>
 				</ListContainer>
@@ -42,14 +43,10 @@ const Technologies = () =>  (
 						<br />
 						June 2021 - Aug 2021
 						<br />
-						<br />
-						- Contributed to the Data Platform team's agile development through attending daily standup, work sessions, grooming, story review/pointing, sprint demo, and retrospective meetings. 
 					    <br />
 						- Developed ETL (extract, transform, and load) program that read, ingested, normalized, and enriched ADT (Admission, discharge, transfer) datasets to verify coverage under Bright Health Insurance.
 						<br />
 						- Coded JUnit tests in Scala to ensure valid data quality and error prevention.
-						<br />
-						- Constructed YAML Pipeline that would use Maven to build Scala projects, run the unit tests, and deploy its JAR to Databricks for CI/CD purposes.
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
@@ -61,7 +58,7 @@ const Technologies = () =>  (
 					</ListTitle>
 					<ListParagraph>
 						<br />
-						Oct 2020 - Present
+						Oct 2020 - Dec 2021
 						<br />
 						<br />
 						- AYC Logic is an online coding school that provides students the opportunity of learning advanced Python Object Oriented Programming and game development in Python using tools like Pygame and Pycharm.
